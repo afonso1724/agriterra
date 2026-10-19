@@ -51,21 +51,21 @@ export default function ContactosPage() {
             Vamos falar sobre o próximo ciclo da sua colheita.
           </h1>
           <p className="mt-4 max-w-2xl text-lg text-muted-foreground">
-            Escolha o seu perfil — agricultor, comprador ou parcerias — e preencha os campos que
-            fazem sentido para si. Respondemos em 24h úteis.
+            Escolha o seu perfil: agricultor, comprador ou parcerias e preencha os campos que
+            fazem sentido para si. Respondemos em 24 horas úteis.
           </p>
         </section>
 
         <section className="mx-auto grid max-w-6xl gap-10 px-4 py-10 sm:px-6 lg:grid-cols-3 lg:px-8">
           <div className="space-y-4 lg:col-span-1">
             <InfoRow icon={MapPin} title="Sede">
-              Rua Comandante Valódia, Benguela, Angola
+             Luanda, Angola
             </InfoRow>
             <InfoRow icon={Phone} title="Telefone">
-              +244 923 000 000
+              +244 947 854 364
             </InfoRow>
             <InfoRow icon={Mail} title="Email">
-              ola@agriterra.ao
+              contato@agriterra.ao
             </InfoRow>
           </div>
 

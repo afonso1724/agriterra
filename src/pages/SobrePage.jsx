@@ -33,7 +33,7 @@ export default function SobrePage() {
           </div>
           <div className="space-y-6 text-lg leading-relaxed text-muted-foreground lg:col-span-3">
             <p>
-              Em Benguela, no Huambo, na Huíla — as pessoas do campo alimentam Angola. Mas todos
+              Em Benguela, no Huambo, na Huíla as pessoas do campo alimentam Angola. Mas todos
               os anos milhares de toneladas de milho, batata e mandioca são perdidas por dois
               motivos evitáveis: <strong className="text-foreground">falta de informação a tempo</strong> e
               <strong className="text-foreground"> falta de escoamento até ao mercado</strong>.
@@ -41,12 +41,12 @@ export default function SobrePage() {
             <p>
               A chuva forte que estraga a plantação já era previsível pelo satélite. A batata que
               apodrece à espera de transporte já tinha comprador em Luanda. O elo em falta era
-              tecnológico — e nenhum agricultor devia ter que descarregar uma app para receber uma
+              tecnológico e nenhum agricultor devia ter que descarregar uma app para receber uma
               notícia que lhe pode salvar o ano.
             </p>
             <p>
               Foi por isso que nasceu a <strong className="text-foreground">Agriterra</strong>: uma
-              plataforma 2 em 1 que fala com o agricultor por SMS, na sua língua, no seu tempo — e
+              plataforma 2 em 1 que fala com o agricultor por SMS, na sua língua, no seu tempo e
               que ao mesmo tempo organiza a logística para levar a colheita ao supermercado certo,
               no dia certo.
             </p>
@@ -62,7 +62,7 @@ export default function SobrePage() {
               <Problem
                 icon={AlertTriangle}
                 title="Alertas que não chegam"
-                text="Sem internet no campo, previsões meteorológicas ficam presas em capitais e ecrãs — não chegam a quem semeia."
+                text="Sem internet no campo, previsões meteorológicas ficam presas em capitais e ecrãs e não chegam a quem semeia."
               />
               <Problem
                 icon={Truck}
@@ -87,13 +87,13 @@ export default function SobrePage() {
               tone="primary"
               icon={HeartHandshake}
               title="Um SMS que salva uma colheita"
-              text="Combinamos dados climáticos reais com o conhecimento da cultura de cada lavra para gerar recomendações em português, entregues por SMS. Sem internet. Sem app. Sem barreiras."
+              text="Combinamos dados climáticos reais com o conhecimento da cultura de cada lavra para gerar recomendações em português e nossas linguas nacionais, entregues por SMS. Sem internet. Sem app. Sem barreiras."
             />
             <Solution
               tone="earth"
               icon={Truck}
               title="Da lavra ao supermercado"
-              text="Coordenamos entregadores, contratos e rotas para que a produção chegue directamente às cadeias parceiras — Kero, Score, Shoprite, Candando — sem intermediários desnecessários."
+              text="Coordenamos entregadores, contratos e rotas para que a produção chegue directamente às cadeias parceiras sem intermediários desnecessários."
             />
           </div>
         </section>
